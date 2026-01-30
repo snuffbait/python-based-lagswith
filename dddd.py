@@ -53,7 +53,7 @@ def click(x, y, button, pressed):
 threading.Thread(target=main, daemon=True).start()
 threading.Thread(target=send, daemon=True).start()
 mouse.Listener(on_click=click).start()
-print("FAE WAS HEREE")
 print("XButton1 = lag yo shit")
 while True:
+
     time.sleep(1)
