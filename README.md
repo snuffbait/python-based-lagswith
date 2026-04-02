@@ -3,7 +3,7 @@
 reminder you need pip for this and
 
 pip install pydivert
-
+pip install pynput
 
 https://github.com/user-attachments/assets/34671a8b-3237-4ef1-b813-8746c2eed0d6
 
